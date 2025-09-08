@@ -1,0 +1,14 @@
+
+SMS request log on 2022/05/02 03:29:24=> {"status":"ACCEPTED","batchid":237115567,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 03:29:28=> {"status":"ACCEPTED","batchid":237115597,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 03:36:20=> {"status":"ACCEPTED","batchid":237118966,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 03:36:32=> {"status":"ACCEPTED","batchid":237119058,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 03:36:42=> {"status":"ACCEPTED","batchid":237119138,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 03:45:32=> {"status":"ACCEPTED","batchid":237123049,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 04:24:06=> {"status":"ACCEPTED","batchid":237141646,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}

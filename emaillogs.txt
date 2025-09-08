@@ -1,0 +1,10 @@
+
+SMS request log on 2022/05/02 04:13:26=> {"status":"REJECTED","reason":"Invalid request data: The message field is required."}
+
+SMS request log on 2022/05/02 04:15:35=> {"status":"ACCEPTED","batchid":237137639,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 04:15:40=> {"status":"ACCEPTED","batchid":237137678,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 04:19:08=> {"status":"ACCEPTED","batchid":237139372,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
+
+SMS request log on 2022/05/02 04:22:37=> {"status":"ACCEPTED","batchid":237141030,"destinations":[{"msgid":101,"status":"ACCEPTED","reason":"Accepted For Processing."}],"reason":"Message Accepted For Processing"}
